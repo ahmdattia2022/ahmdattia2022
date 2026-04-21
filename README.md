@@ -150,7 +150,7 @@ Backend for Industry 4.0 dashboards. **Stored procedures, views, and SQL Agent j
 Maintained and extended a desktop app serving two departments (Investment + Financial) for 100+ rental contracts and automated financial reporting. Rewrote the report layer in **RDLC**, enhanced **Telerik UI** grids for large datasets.
 
 ### This site (portfolio) — [ahmed-attia-portfolio.pages.dev](https://ahmed-attia-portfolio.pages.dev/)
-Static site in **Astro 5 + Tailwind CSS v4 + MDX content collections**. JSON-LD Person schema, sitemap, near-zero JS shipped to the browser. Deployed on **Cloudflare Pages** via `wrangler`. **[Source →](https://github.com/ahmdattia2022/portfolio)**
+Static site in **Astro 5 + Tailwind CSS v4 + MDX content collections**. JSON-LD Person schema, sitemap, near-zero JS shipped to the browser. Auto-deployed on every `git push` via **Cloudflare Pages** Git integration. <sub>*(Source is private; happy to share a walkthrough during a hiring conversation.)*</sub>
 
 ---
 
