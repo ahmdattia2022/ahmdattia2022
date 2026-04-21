@@ -131,8 +131,8 @@ Astro + Tailwind + MDX, STAR-framework case studies, Lighthouse-optimized, deplo
 ## 💼 Open to
 
 - **Freelance / contract** — AI/LLM integration, .NET + Angular fullstack apps, IoT dashboards, legacy WinForms/WPF maintenance
-- **Full-time roles** — senior / mid-level backend, fullstack, or AI engineer (remote or Cairo)
-- **Consulting** — Clean Architecture reviews, microservices design, Azure deployment
+- **Full-time roles** — mid-level backend, fullstack, or AI engineer (remote or Cairo)
+- **Code reviews & pairing** — Clean Architecture, .NET + Angular, Azure Container Apps deployment
 
 📫 Fastest reply: [official.ahmed.attia@gmail.com](mailto:official.ahmed.attia@gmail.com) · [WhatsApp](https://wa.me/201027495862) · [LinkedIn](https://linkedin.com/in/ahmed-attia-dev)
 
