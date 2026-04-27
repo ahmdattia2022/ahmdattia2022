@@ -1,20 +1,14 @@
-# Ahmed Attia — Full Stack Software Engineer
+<h3>Ahmed Attia — Full Stack Software Engineer</h3>
 
-**Backend-focused · .NET + Angular · Cairo, Egypt**
+<p>
+  Backend-focused · <b>.NET 8 + Angular</b> · Cairo, Egypt · 4+ years<br>
+  Currently at <a href="https://www.linkedin.com/company/appenza/">Appenza Studio</a> — backend on AI-powered EdTech for the Egyptian Ministry of Education (1M+ users).<br>
+  Stack: C# · ASP.NET Core · EF Core · SQL Server · Angular · Azure (OpenAI, AI Search, TTS, Container Apps) · Docker · SignalR · Clean Architecture
+</p>
 
-4+ years building and shipping production .NET systems. Currently at [Appenza Studio](https://www.linkedin.com/company/appenza/) — backend developer on AI-powered EdTech platforms for the Egyptian Ministry of Education (1M+ users).
-
----
-
-**Stack**
-
-Backend: C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL Server, LINQ  
-Frontend: Angular, TypeScript  
-Cloud: Azure (Container Apps, OpenAI, AI Search, TTS, Blob Storage) · Docker · AWS S3  
-Databases: SQL Server · MySQL · PostgreSQL · Redis · MongoDB  
-Auth: Microsoft Identity · JWT · OAuth 2.0  
-Other: Hangfire · SignalR · Python (Flask-RESTX, aiohttp) · Clean Architecture · IIS
-
----
-
-📧 [official.ahmed.attia@gmail.com](mailto:official.ahmed.attia@gmail.com) · [LinkedIn](https://linkedin.com/in/ahmed-attia-dev) · [Portfolio](https://ahmed-attia-portfolio.pages.dev) · [WhatsApp](https://wa.me/201027495862)
+<p>
+  <a href="https://ahmed-attia-portfolio.pages.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ahmed-attia-dev">LinkedIn</a> ·
+  <a href="mailto:official.ahmed.attia@gmail.com">Email</a> ·
+  <a href="https://wa.me/201027495862">WhatsApp</a>
+</p>
